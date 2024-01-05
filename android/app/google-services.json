@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "992462879712",
+    "firebase_url": "https://certychain-4ab06-default-rtdb.firebaseio.com",
+    "project_id": "certychain-4ab06",
+    "storage_bucket": "certychain-4ab06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992462879712:android:64017ec64ffe060f6d4985",
+        "android_client_info": {
+          "package_name": "com.example.certy_chain_nrb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992462879712-fid3ri46619qjapm5o5fa0s5jeu074bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ-JZF3mYBlIxHzNGGWWx0SYvYvfpHpbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992462879712-fid3ri46619qjapm5o5fa0s5jeu074bb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "992462879712-cvj5b6q3ge0tem8o7q558rsp3qncnc42.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.certyChainNrb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
